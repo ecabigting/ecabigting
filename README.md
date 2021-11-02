@@ -8,7 +8,6 @@
 - 😄 Pronouns: He/his/him...
 
 ## Tool I work with 🛠️ 
-<hr>
 
 <div align="justify">
 
