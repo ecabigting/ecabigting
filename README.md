@@ -1,13 +1,8 @@
-## Hey! 👋 ###
-- 🔭 I’m currently working at eWavelength Digital Marketing Services as a Project Manager...
-- 🌱 Check out my blog https://ericcabigting.dev
-- 👯 I’m looking to collaborate on API Development and front-end Development...
-- 💬 Ask me about technologies and software development in general...
-- 📫 How to reach me: [Mail](mailto:ericcabigting@outlook.com) / [LinkedIn](https://www.linkedin.com/in/ecabigting/) ...
-- 😄 Pronouns: He/his/him...
+<p style="text-aling:center;">
+<img align="center" src="readme-banner.png" style="width:100%;height:100%;"/>
+</p>
 
-
-## Tools I work with 🛠️ 
+# Tools I work with 🛠️ 
 
 <div align="center">
 
@@ -40,6 +35,18 @@
 
 </div>
 
+<p>
+
+
+- 🔭 I’m currently working at eWavelength Digital Marketing Services as a Project Manager...
+- 🌱 Check out my blog https://ericcabigting.dev
+- 👯 Hey lets work together on API Development and front-end Development...
+- 💬 Ask me about technologies and software development in general...
+- 📫 How to reach me: [Mail](mailto:ericcabigting@outlook.com) / [LinkedIn](https://www.linkedin.com/in/ecabigting/) ...
+- 😄 Pronouns: He/his/him...
+
+
+</p>
 
 <div align="center">
 
