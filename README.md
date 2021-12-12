@@ -2,6 +2,32 @@
 <img align="center" src="readme-banner.png" style="width:100%;height:100%;"/>
 </p>
 
+<div align="center">
+
+[![ecabigting's Stats](https://github-readme-stats.vercel.app/api?username=ecabigting&theme=merko&show_icons=true&layout=compact)](https://ericcabigting.dev/)&nbsp;&nbsp;[![ecabigting's Streak](https://github-readme-streak-stats.herokuapp.com?user=ecabigting&theme=merko&date_format=M%20j%5B%2C%20Y%5D&layout=compact)](https://ericcabigting.dev/)
+
+</div>
+
+<p align="center">
+
+- 👋 Hey I'm Eric Thomas D. Cabigting! Lets code!
+- 👷 currently working at [eWavelength Digital Marketing Services](https://www.ewavelength.com/) as a Project Manager
+- 🌱 Check out my blog https://ericcabigting.dev
+- 👯 Hey lets work together on API Development and front-end Development...
+- 💬 Ask me about technologies and software development in general...
+- 📫 How to reach me: [Mail](mailto:ericcabigting@outlook.com) / [LinkedIn](https://www.linkedin.com/in/ecabigting/)
+
+</p>
+
+<div align="center">
+
+<!-- [![ecabigting's Stats](https://github-readme-stats.vercel.app/api?username=ecabigting&theme=merko&show_icons=true&layout=compact)](https://ericcabigting.dev/) -->
+
+<!-- [![ecabigting's Streak](https://github-readme-streak-stats.herokuapp.com?user=ecabigting&theme=merko&date_format=M%20j%5B%2C%20Y%5D&layout=compact)](https://ericcabigting.dev/) -->
+
+</div>
+
+
 # Tools I work with 🛠️ 
 
 <div align="center">
@@ -12,7 +38,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white😒)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![.net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -33,25 +59,6 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![PostMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-</div>
-
-<p>
-
-
-- 🔭 I’m currently working at eWavelength Digital Marketing Services as a Project Manager...
-- 🌱 Check out my blog https://ericcabigting.dev
-- 👯 Hey lets work together on API Development and front-end Development...
-- 💬 Ask me about technologies and software development in general...
-- 📫 How to reach me: [Mail](mailto:ericcabigting@outlook.com) / [LinkedIn](https://www.linkedin.com/in/ecabigting/) ...
-- 😄 Pronouns: He/his/him...
-
-
-</p>
-
-<div align="center">
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ecabigting&theme=merko&show_icons=true&layout=compact)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ecabigting&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://ericcabigting.dev/project)
+[![ecabigting's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecabigting&theme=merko&show_icons=true&layout=compact&card_width=446)](https://ericcabigting.dev/project/)
 
 </div>
