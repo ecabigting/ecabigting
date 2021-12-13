@@ -10,12 +10,12 @@
 
 <p align="center">
 
-- 👋 Hey I'm Eric Thomas D. Cabigting! Lets code!
-- 👷 currently working at [eWavelength Digital Marketing Services](https://www.ewavelength.com/) as a Project Manager
-- 🌱 Check out my blog https://ericcabigting.dev
-- 👯 Hey lets work together on API Development and front-end Development
-- 💬 Ask me about technologies and software development in general
-- 📫 How to reach me: [Mail](mailto:ericcabigting@outlook.com) / [LinkedIn](https://www.linkedin.com/in/ecabigting/)
+👋 Hey I'm Eric Thomas D. Cabigting! Lets code!
+👷 currently working at [eWavelength Digital Marketing Services](https://www.ewavelength.com/) as a Project Manager
+🌱 Check out my blog https://ericcabigting.dev
+👯 Hey lets work together on API Development and front-end Development
+💬 Ask me about technologies and software development in general
+📫 How to reach me: [Mail](mailto:ericcabigting@outlook.com) / [LinkedIn](https://www.linkedin.com/in/ecabigting/)
 
 </p>
 
