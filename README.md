@@ -13,12 +13,6 @@
 
 </p>
 
-<p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ecabigting&theme=matrix&margin-w=15)](https://github.com/ecabigting?tab=repositories)
-
-</p>
-
 # Tools I work with 🛠️ 
 
 <div align="center">
@@ -62,8 +56,14 @@
 
 </div>
 
+<p align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ecabigting&theme=matrix&margin-w=15)](https://github.com/ecabigting?tab=repositories)
+
+</p>
 
 </div>
+
 
 
 
