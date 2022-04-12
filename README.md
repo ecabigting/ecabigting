@@ -54,7 +54,7 @@
 
 <!-- [![ecabigting's Streak](https://github-readme-streak-stats.herokuapp.com?user=ecabigting&theme=merko&date_format=M%20j%5B%2C%20Y%5D&layout=compact)](https://ericcabigting.dev/) -->
 
-[![ecabigting's Stats](https://github-readme-stats.vercel.app/api?username=ecabigting&theme=merko&show_icons=true&layout=compact&hide_rank=true&count_private=true&custom_title=Repo%20Stats&show_owner=true)](https://ericcabigting.dev/)
+<!-- [![ecabigting's Stats](https://github-readme-stats.vercel.app/api?username=ecabigting&theme=merko&show_icons=true&layout=compact&hide_rank=true&count_private=true&custom_title=Repo%20Stats&show_owner=true)](https://ericcabigting.dev/) -->
 
 </div>
 
