@@ -50,13 +50,9 @@
 ![PostMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
-[![ecabigting's contribution graph](https://github-readme-stats.vercel.app/api/top-langs/?username=ecabigting&theme=merko&show_icons=true&layout=compact&card_width=600&hide_title=true)](https://ericcabigting.dev/project/)
+[![ecabigting's contribution graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ecabigting&theme=merko&show_icons=true&layout=compact&card_width=600&hide_title=true)](https://ericcabigting.dev/project/)
 
 <div align="center">
-
-<!-- [![ecabigting's Streak](https://github-readme-streak-stats.herokuapp.com?user=ecabigting&theme=merko&date_format=M%20j%5B%2C%20Y%5D&layout=compact)](https://ericcabigting.dev/) -->
-
-<!-- [![ecabigting's Stats](https://github-readme-stats.vercel.app/api?username=ecabigting&theme=merko&show_icons=true&layout=compact&hide_rank=true&count_private=true&custom_title=Repo%20Stats&show_owner=true)](https://ericcabigting.dev/) -->
 
 </div>
 
