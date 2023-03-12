@@ -5,7 +5,7 @@
 <p align="center">
 
 👋 Hey I'm Eric Thomas D. Cabigting! Lets code!
-👷 currently working at [eWavelength Digital Marketing Services](https://www.ewavelength.com/) as a Project Manager.
+👷 currently working at [Digital Qube Marketing Services](https://www.digital-qube.com/) as a Project Manager.
 🌱 Check out my blog https://ericcabigting.dev.
 👯 Hey lets work together on API Development and front-end Development.
 💬 Ask me about technologies and software development in general.
