@@ -1,15 +1,15 @@
 <div align="center">
-<ul style="list-style-type: none; padding: 0; display: flex;">
-  <li>
-      ✍🏽 <a href="https://ericcabigting.dev/blog/">blog</a>
-  </li>
-  <li>
-      🧰 <a href="https://ericcabigting.dev/#projects">projects</a>
-  </li>
-  <li>
-      📨 <a href="mailto:thomas@ericcabigting.dev?subject=Hello%20there&body=I%20would%20like%20to%20discuss...">email</a>
-  </li>
-</ul>
+  <ul style="list-style-type: none; padding: 0; display: flex;">
+    <li style="margin-right: 20px;">
+        ✍🏽 <a href="https://ericcabigting.dev/blog/">blog</a>
+    </li>
+    <li style="margin-right: 20px;">
+        🧰 <a href="https://ericcabigting.dev/#projects">projects</a>
+    </li>
+    <li style="margin-right: 20px;">
+        📨 <a href="mailto:thomas@ericcabigting.dev?subject=Hello%20there&body=I%20would%20like%20to%20discuss...">email</a>
+    </li>
+  </ul>
 </div>
 <!--<p style="text-aling:center;">
 <img align="center" src="gitmainbanner.png" style="width:100%;height:100%;"/>
