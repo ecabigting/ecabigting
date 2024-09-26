@@ -1,8 +1,9 @@
 <div align="center">
-  [blog](https://ericcabigting.dev/blog/) 
-  [projects](https://ericcabigting.dev/#projects) 
-  [email](mailto:thomas@ericcabigting.dev?subject=Hello%20there&body=I%20would%20like%20to%20discuss...)
-
+<ul>
+  <li>✍🏽 [blog](https://ericcabigting.dev/blog/)</li>
+  <li>🧰 [projects](https://ericcabigting.dev/#projects)</li>
+  <li>📨 [email](mailto:thomas@ericcabigting.dev?subject=Hello%20there&body=I%20would%20like%20to%20discuss...)</li>
+</ul>
 </div>
 <!--<p style="text-aling:center;">
 <img align="center" src="gitmainbanner.png" style="width:100%;height:100%;"/>
