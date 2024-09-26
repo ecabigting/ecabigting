@@ -1,5 +1,5 @@
 <div align="center">
-  ✒️ [blog](https://ericcabigting.dev/blog) 🔧  [projects](https://ericcabigting.dev/#projects) 📨 [email](mailto:thomas@ericcabigting.dev?subject=Hello%20there&body=I%20would%20like%20to%20discuss...)
+  [blog](https://ericcabigting.dev/blog/) [projects](https://ericcabigting.dev/#projects) [email](mailto:thomas@ericcabigting.dev?subject=Hello%20there&body=I%20would%20like%20to%20discuss...)
 
 </div>
 <!--<p style="text-aling:center;">
