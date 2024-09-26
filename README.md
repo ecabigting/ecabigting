@@ -1,4 +1,8 @@
-<p style="text-aling:center;">
+<div align="center">
+  ✒️ [blog](https://ericcabigting.dev/blog) 🔧  [projects](https://ericcabigting.dev/#projects) 📨 [email](mailto:thomas@ericcabigting.dev?subject=Hello%20there&body=I%20would%20like%20to%20discuss...)
+
+</div>
+<!--<p style="text-aling:center;">
 <img align="center" src="gitmainbanner.png" style="width:100%;height:100%;"/>
 </p>
 
@@ -66,11 +70,12 @@
 
 <p align="center">
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ecabigting&theme=matrix&margin-w=15)](https://github.com/ecabigting?tab=repositories) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ecabigting&theme=matrix&margin-w=15)](https://github.com/ecabigting?tab=repositories)
 
 </p>
 
 </div>
+-->
 
 <!--
 <div align="center">
