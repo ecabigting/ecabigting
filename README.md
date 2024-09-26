@@ -1,8 +1,14 @@
 <div align="center">
-<ul>
-  <li>✍🏽 [blog](https://ericcabigting.dev/blog/)</li>
-  <li>🧰 [projects](https://ericcabigting.dev/#projects)</li>
-  <li>📨 [email](mailto:thomas@ericcabigting.dev?subject=Hello%20there&body=I%20would%20like%20to%20discuss...)</li>
+<ul style="list-style-type: none; padding: 0; display: flex;">
+  <li>
+      ✍🏽 <a href="https://ericcabigting.dev/blog/">blog</a>
+  </li>
+  <li>
+      🧰 <a href="https://ericcabigting.dev/#projects">projects</a>
+  </li>
+  <li>
+      📨 <a href="mailto:thomas@ericcabigting.dev?subject=Hello%20there&body=I%20would%20like%20to%20discuss...">email</a>
+  </li>
 </ul>
 </div>
 <!--<p style="text-aling:center;">
