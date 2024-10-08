@@ -1,6 +1,6 @@
 <div align="center">
-✍🏽 <a href="https://ericcabigting.dev/blog/">blog</a>   |   
-  🧰 <a href="https://ericcabigting.dev/#projects">projects</a>   |   
+✍🏽 <a href="https://ericcabigting.dev/blog/?utm_source=github">blog</a>   |   
+  🧰 <a href="https://ericcabigting.dev/?utm_source=github#projects">projects</a>   |   
   📨 <a href="mailto:thomas@ericcabigting.dev?subject=Hello%20there&body=I%20would%20like%20to%20discuss...">email</a>
   <!--
   <ul style="list-style-type: none; padding: 0; display: flex;">
