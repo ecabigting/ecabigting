@@ -81,7 +81,9 @@
 
 
 <div align="center">
+  
 [![ecabigting's contribution graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ecabigting&theme=merko&show_icons=true&layout=compact&card_width=600&hide_title=true)](https://ericcabigting.dev/#projects)
+
 </div>
 
 <!--
