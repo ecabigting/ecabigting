@@ -78,12 +78,13 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 -->
-[![ecabigting's contribution graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ecabigting&theme=merko&show_icons=true&layout=compact&card_width=600&hide_title=true)](https://ericcabigting.dev/#projects)
-<!--
-<div align="center">
 
+
+<div align="center">
+[![ecabigting's contribution graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ecabigting&theme=merko&show_icons=true&layout=compact&card_width=600&hide_title=true)](https://ericcabigting.dev/#projects)
 </div>
 
+<!--
 <p align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ecabigting&theme=matrix&margin-w=15)](https://github.com/ecabigting?tab=repositories)
